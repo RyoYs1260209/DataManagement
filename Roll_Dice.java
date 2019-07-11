@@ -19,12 +19,12 @@ class Roll_Dice{
 	System.out.println("What is your name?");
 	System.out.print(">");
 	name = scan.next();
-	System.out.println("Hello, "+ name +"!");*/
+	System.out.println("Hello, "+ name +"!");
 	    System.out.println("Rolling the dice...");
 	    System.out.println("Die 1:" + dice1);
 	    System.out.println("Die 2:" + dice2);
-	    System.out.println("Die 3:" + dice3);*/
-		System.out.println("Total value: "+ total);
+	    System.out.println("Die 3:" + dice3);
+		System.out.println("Total value is: "+ total);
 		if(total>7){
 		    System.out.println(name +" won");   
 		}
