@@ -9,9 +9,13 @@ class Roll_Dice{
 
 	int dice1 =rand1.nextInt(7);
 	int dice2 =rand2.nextInt(7);
+<<<<<<< HEAD
 	int dice3 =rand3.nextInt(7);
 	
 	int total =dice1+dice2+dice3;
+=======
+	int total =dice1+dice2;
+>>>>>>> experimental
 	Scanner scan = new Scanner(System.in);
 	String name;
 
