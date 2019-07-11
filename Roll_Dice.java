@@ -13,7 +13,7 @@ class Roll_Dice{
 	/*int dice3 =rand3.nextInt(7);
 	*/
 	int total =dice1+dice2;
-
+	//
 	Scanner scan = new Scanner(System.in);
 	String name;
 
